@@ -21,5 +21,5 @@ Windows平台下使用VS2019打开并编译项目，需要将源字符集和执�
 ## 版本内容更新
 * 添加字符串的实现暂不支持在内存碎片处进行添加操作。
 ## 声明
-### bilibili：https://space.bilibili.com/284022506
-### kanxue：https://bbs.pediy.com/user-home-878023.htm
+bilibili：https://space.bilibili.com/284022506  
+kanxue：https://bbs.pediy.com/user-home-878023.htm
